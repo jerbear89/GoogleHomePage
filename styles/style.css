@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-content {
+    text-align: center
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li {
+    float: left;
+    padding: 14px 16px;
+}
